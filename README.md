@@ -1,0 +1,1 @@
+This repository demonstrates a subtle ZeroDivisionError in Python. The error occurs because even though there is a check for 'a == 0', the return statement still attempts to divide by 'a' if the if condition is true.  The solution shows how to correctly handle this condition.
